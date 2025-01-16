@@ -1,0 +1,18 @@
+.contact-card {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+    margin: 10px;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.contact-card h2 {
+    font-size: 1.5em;
+    margin: 10px 0;
+}
+
+.contact-card p {
+    font-size: 1em;
+    color: #333;
+}
